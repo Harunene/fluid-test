@@ -1,0 +1,21 @@
+@import url(/node_modules/bootstrap/dist/css/bootstrap.css);
+body{
+  background:#257ca1;
+}
+.container-fluid{
+  color:#ffffff;
+}
+
+canvas{
+  border: 1px solid #000000;
+  visibility: hidden;
+  position:absolute; 
+  top: 100;
+  left: 20;
+  z-index: -1;
+  background: #000000;;
+}
+
+a{
+  color:#bfbfbf;
+}
